@@ -1,3 +1,4 @@
 star
 underscore
 hash
+modulo
