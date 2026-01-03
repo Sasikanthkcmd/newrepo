@@ -1,5 +1,1 @@
-one
-two
-three
-seveen
-eight
+ten
